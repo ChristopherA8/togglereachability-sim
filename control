@@ -1,0 +1,9 @@
+Package: com.chr1s.togglereach
+Name: toggleReach
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Activate reachability with volume buttons in iOS simulator
+Maintainer: Chr1s
+Author: Chr1s
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
